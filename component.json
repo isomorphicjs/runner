@@ -1,0 +1,17 @@
+{
+  "name": "runner",
+  "repo": "isomorphicjs/runner",
+  "description": "Isomorphic app runner",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/events": "*",
+    "isomorphicjs/req": "*",
+    "isomorphicjs/res": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
